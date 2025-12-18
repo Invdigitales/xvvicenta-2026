@@ -211,6 +211,12 @@ margin-top: -17%;
    background-color:#d49c81 ;
    
 }
+.chat{
+  width:20%;
+    margin-left: 5%;
+    margin-top: 5%;
+  }
+
 .parrafotarjeta{
 
   text-align: center;
@@ -561,22 +567,14 @@ margin-top: -17%;
   width: 25%;
   margin-left: -50%;
 }
-.chat{
-  width:20%;
-    margin-left: 40%;
-    margin-top: -5%;
-  }
+
 
 .linea-1{
   width: 60%;
   color: #414141;
   margin-left: 20%;
 }
-  .chat2{
-    width:20%;
-      margin-left: 40%;
-      margin-top: -5%;
-    }
+  
   .a{
     text-decoration: none;
   }

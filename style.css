@@ -216,7 +216,11 @@ margin-top: -17%;
     margin-left: 5%;
     margin-top: 5%;
   }
-
+.alias {
+  text-align: center;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 24px;
+}
 .parrafotarjeta{
 
   text-align: center;
